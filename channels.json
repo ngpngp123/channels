@@ -10,7 +10,14 @@
       
         {
           "title":"Mrtv-4",
-      "img":"t",
+      "img":"https://static.wikia.nocookie.net/logopedia/images/e/e1/MRTV-4.png/revision/latest?cb=20220604135321",
+      "link":"https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8"
+        },
+      
+      
+        {
+          "title":"Channel 7",
+      "img":"https://upload.wikimedia.org/wikipedia/en/e/e8/Channel7_logo.png",
       "link":"https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8"
         }
     
@@ -22,14 +29,20 @@
     "chs": [
       { 
         "title":"Bein Max 1 HD",
-      "img":"https://i.ytimg.com/vi/atvjVoYfBEw/hqdefault.jpg",
+      "img":"https://upload.wikimedia.org/wikipedia/tr/thumb/d/de/BeIN_SPORTS_Max_HD_1_2018_logo1.jpg/640px-BeIN_SPORTS_Max_HD_1_2018_logo1.jpg",
       "link":"http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43852"
       },
       
         {
           "title":"Bein Max 2 HD",
-      "img":"t",
+      "img":"https://upload.wikimedia.org/wikipedia/tr/7/7d/BeIN_SPORTS_Max_HD_2_2018_logo1.jpg",
       "link":"http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43853"
+        },
+      
+        {
+          "title":"Bein Max 3 HD",
+      "img":"https://upload.wikimedia.org/wikipedia/tr/e/e3/BeIN_SPORTS_Max_HD_3_2018_logo1.jpg",
+      "link":"http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43854"
         }
     
     ]
