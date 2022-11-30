@@ -22,34 +22,7 @@
         }
     
     ]
-  },
-  
-    {
-    "type":"Bein Group",
-    "chs": [
-      { 
-        "title":"Bein Max 1 HD",
-      "img":"https://upload.wikimedia.org/wikipedia/tr/thumb/d/de/BeIN_SPORTS_Max_HD_1_2018_logo1.jpg/640px-BeIN_SPORTS_Max_HD_1_2018_logo1.jpg",
-      "link":"http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43852"
-      },
-      
-        {
-          "title":"Bein Max 2 HD",
-      "img":"https://upload.wikimedia.org/wikipedia/tr/7/7d/BeIN_SPORTS_Max_HD_2_2018_logo1.jpg",
-      "link":"http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43853"
-        },
-      
-        {
-          "title":"Bein Max 3 HD",
-      "img":"https://upload.wikimedia.org/wikipedia/tr/e/e3/BeIN_SPORTS_Max_HD_3_2018_logo1.jpg",
-      "link":"http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43854"
-        }
-    
-    ]
   }
-
-
-
 
 
 
