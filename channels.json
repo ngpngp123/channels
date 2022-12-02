@@ -61,6 +61,27 @@
           "title":"Channel Me",
       "img":"https://upload.wikimedia.org/wikipedia/en/0/0b/Channel_ME_Logo.jpg",
       "link":"http://183.89.246.119:8881/play/a07t/index.m3u8"
+        },
+      
+      
+        {
+          "title":"MM Music",
+      "img":"https://yt3.ggpht.com/ytc/AMLnZu8eT5sPoZixhMr7KqbkNBAB6vGNsQbOxa5HqHkj=s900-c-k-c0x00ffffff-no-rj",
+      "link":"https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8"
+        },
+      
+      
+        {
+          "title":"Fortune Tv",
+      "img":"https://yt3.ggpht.com/ytc/AMLnZu9tQwzA2HWR1kphTOhf_MFxcWzRVv-E2ZZtPpLK=s900-c-k-c0x00ffffff-no-rj",
+      "link":"http://183.89.246.119:8881/play/a082/index.m3u8"
+        },
+      
+      
+        {
+          "title":"MNTV",
+      "img":"https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Myanmar_National_TV_Logo.jpg/220px-Myanmar_National_TV_Logo.jpg",
+      "link":"https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8"
         }
     
     ]
