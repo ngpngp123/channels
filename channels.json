@@ -10,15 +10,29 @@
       
         {
           "title":"Mrtv-4",
-      "img":"https://static.wikia.nocookie.net/logopedia/images/e/e1/MRTV-4.png/revision/latest?cb=20220604135321",
+      "img":"http://static.pyoneplay.com/static/live/li_bg_1571902845.jpg",
       "link":"https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8"
         },
       
       
         {
           "title":"Channel 7",
-      "img":"https://upload.wikimedia.org/wikipedia/en/e/e8/Channel7_logo.png",
+      "img":"http://static.pyoneplay.com/static/live/li_bg_1571902868.jpg",
       "link":"https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8"
+        },
+      
+      
+        {
+          "title":"Maharbawdi",
+      "img":"http://static.pyoneplay.com/static/live/li_bg_1557296214.jpg",
+      "link":"https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8"
+        },
+      
+      
+        {
+          "title":"Channel K",
+      "img":"https://static.wikia.nocookie.net/logopedia/images/a/a8/ChannelK_Myanmar.png/revision/latest?cb=20191211065312",
+      "link":"https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_mobile/index.m3u8"
         }
     
     ]
