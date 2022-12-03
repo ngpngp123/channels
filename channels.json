@@ -93,52 +93,52 @@
     "chs": [
       {
           "title":"TYC SPORT 🇦🇷",
-      "img":"0",
+      "img":"https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg",
       "link":"https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8"
         },
 {
           "title":"TYC SPORT 🇦🇷",
-      "img":"0",
+      "img":"https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg",
       "link":"https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8?fbclid=PAAaagylDoTQ3WF9b_-7_pOIaQY7Zyj2d7k0JdoNIdIlAo0-KqhikaWEFKfD4"
         },
 {
           "title":"TSN1",
-      "img":"0",
+      "img":"https://cdn.tvpassport.com/image/station/240x135/v2/s34313_h15_ab.png",
       "link":"http://31.14.41.118:8080/Xiptv1/2zEqXsX61p/19933"
         },
 {
           "title":"RTSH Sport",
-      "img":"0",
+      "img":"https://tvprofil.com/img/kanali-logo/RTSH_Sport_AL_logo.png",
       "link":"http://185.89.156.111:8000/play/a022?"
         },
 {
           "title":"MATH",
-      "img":"0",
+      "img":"https://s-cdn.sportbox.ru/images/styles/960_auto/fp_fotos/6a/a6/4102c1e18cd9207f757885c68a5739585dbbff35b9d0e340932838.jpg",
       "link":"https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8"
         },
 {
           "title":"MATH",
-      "img":"0",
+      "img":"https://s-cdn.sportbox.ru/images/styles/960_auto/fp_fotos/6a/a6/4102c1e18cd9207f757885c68a5739585dbbff35b9d0e340932838.jpg",
       "link":"https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8"
         },
 {
           "title":"WEBOTV",
-      "img":"0",
+      "img":"http://webo-tv.com/wp-content/uploads/2019/08/pak-live-channels.png",
       "link":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
         },
 {
           "title":"TRT",
-      "img":"0",
+      "img":"https://cdn.trend.az/2022/01/10/trt1_logo_100222_1.jpg",
       "link":"http://ac.traveliptv.nl/ibrahimturk/v7Nv6vNvdk/16"
         },
 {
           "title":"TRUE Sport 2",
-      "img":"0",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCLnZNgbc5bkfv0RSbPv2mPM-dujkj2hAbQg&usqp=CAU",
       "link":"https://raw.githubusercontent.com/tvbolaonline98/sopporot/main/Ts2.m3u8"
         },
 {
           "title":"TRUE Sport",
-      "img":"0",
+      "img":"https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png",
       "link":"http://w.nasvpn.xyz:8080/live/saya/saya/13322.ts"
         }
 ]
@@ -170,13 +170,13 @@
       
         {
           "title":"VTV 5 FHD",
-      "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/2560px-VTV5_logo_2013_final.svg.png",
+      "img":"http://tvonline.vn/wp-content/uploads/2021/10/large_vtv5.png",
       "link":"http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8"
         },
       
         {
           "title":"VTV 6 FHD",
-      "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1280px-VTV6_logo_2013_final.svg.png",
+      "img":"https://vtv1.mediacdn.vn/zoom/700_438/2014/vtv6-1415613189934.jpg",
       "link":"http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8"
         }
     
