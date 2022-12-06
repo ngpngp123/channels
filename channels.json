@@ -135,72 +135,68 @@
       "img":"0",
       "link":"http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8"
         },
+
 {
           "title":"AD SPORTS 1",
-      "img":"0",
-      "link":"https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8"
-        },
-{
-          "title":"AD SPORTS 1",
-      "img":"0",
+      "img":"https://cdn.sat.tv/wp-content/uploads/2016/06/AbuDhabi-Sport-1.png",
       "link":"https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8"
         },
 
 
 {
           "title":"NOVA SPORTS START",
-      "img":"0",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Novasports21.jpg/640px-Novasports21.jpg",
       "link":"http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-GjqT3a75ko46LKD1eben_"
         },
 {
           "title":"NOVA SPORTS PRIME",
-      "img":"0",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Novasports21.jpg/640px-Novasports21.jpg",
       "link":"http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SiNbpNnLSCs2raDBBlJ75L12xCcWfMUpyovA8KCk83tc"
         },
 
 {
           "title":"NOVA SPORTS 1",
-      "img":"0",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Novasports21.jpg/640px-Novasports21.jpg",
       "link":"http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9esxppA5BEooxeg3onklIL"
         },
 {
           "title":"NOVA SPORTS 2",
-      "img":"0",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Novasports21.jpg/640px-Novasports21.jpg",
       "link":"http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-UHY4EFXaTL62Eh947HkO8"
         },
 {
           "title":"NOVA SPORTS 3",
-      "img":"0",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Novasports21.jpg/640px-Novasports21.jpg",
       "link":"http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8yactgLcAekKc29ct9hkkd"
         },
 {
           "title":"NOVA SPORTS 4",
-      "img":"0",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Novasports21.jpg/640px-Novasports21.jpg",
       "link":"http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e_lG-wVaWwzTuOyVlirmrrk"
         },
 {
           "title":"NOVA SPORTS 5",
-      "img":"0",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Novasports21.jpg/640px-Novasports21.jpg",
       "link":"http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-zSIvQVCNzM6PzAwwDSc-9"
         },
 {
           "title":"NOVA SPORTS 6",
-      "img":"0",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Novasports21.jpg/640px-Novasports21.jpg",
       "link":"http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8knmYox6b33BuDPJjeF2_K"
         },
 {
           "title":"SPORT HUNGRIA",
-      "img":"0",
+      "img":"https://petervasvari.com/upload/58983b95b3d85/58983bd087e20.jpg",
       "link":"https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8"
         },
 {
           "title":"K SPORT 1",
-      "img":"0",
+      "img":"https://static.wikia.nocookie.net/logopedia/images/d/d4/KSport1.jpg/revision/latest?cb=20160806095212",
       "link":"http://37.49.230.48:8080/GenIptvLast/FaP6YswK77NaOPOF/1863"
         },
 {
           "title":"K SPORT 2",
-      "img":"0",
+      "img":"https://static.wikia.nocookie.net/logopedia/images/9/96/KSport2.png/revision/latest?cb=20160806095633",
       "link":"http://37.49.230.48:8080/GenIptvLast/FaP6YswK77NaOPOF/1864"
         }
 ]
