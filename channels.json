@@ -88,6 +88,95 @@
   },
 
 
+
+
+
+{
+    "type":"Sports",
+    "chs": [
+{
+          "title":"K SPORT 1",
+      "img":"0",
+      "link":"http://37.49.230.48:8080/GenIptvLast/FaP6YswK77NaOPOF/1863"
+        },
+{
+          "title":"K SPORT 2",
+      "img":"0",
+      "link":"http://37.49.230.48:8080/GenIptvLast/FaP6YswK77NaOPOF/1864"
+        },
+{
+          "title":"Sport1 HD",
+      "img":"0",
+      "link":"http://91.237.170.202:11000/play/2694"
+        },
+{
+          "title":"Sport2 HD",
+      "img":"0",
+      "link":"http://91.237.170.202:11000/play/2628"
+        },
+{
+          "title":"NOVA SPORTS START",
+      "img":"0",
+      "link":"http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-GjqT3a75ko46LKD1eben_"
+        },
+{
+          "title":"NOVA SPORTS PRIME",
+      "img":"0",
+      "link":"http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SiNbpNnLSCs2raDBBlJ75L12xCcWfMUpyovA8KCk83tc"
+        },
+{
+          "title":"NOVA SPORTS News",
+      "img":"0",
+      "link":"http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e_jYvBG1pdG0CJssJ4y_7Fk"
+        },
+{
+          "title":"NOVA SPORTS 1",
+      "img":"0",
+      "link":"http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9esxppA5BEooxeg3onklIL"
+        },
+{
+          "title":"NOVA SPORTS 2",
+      "img":"0",
+      "link":"http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-UHY4EFXaTL62Eh947HkO8"
+        },
+{
+          "title":"NOVA SPORTS 3",
+      "img":"0",
+      "link":"http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8yactgLcAekKc29ct9hkkd"
+        },
+{
+          "title":"NOVA SPORTS 4",
+      "img":"0",
+      "link":"http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e_lG-wVaWwzTuOyVlirmrrk"
+        },
+{
+          "title":"NOVA SPORTS 5",
+      "img":"0",
+      "link":"http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-zSIvQVCNzM6PzAwwDSc-9"
+        },
+{
+          "title":"NOVA SPORTS 6",
+      "img":"0",
+      "link":"http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8knmYox6b33BuDPJjeF2_K"
+        },
+{
+          "title":"SPORT HUNGRIA",
+      "img":"0",
+      "link":"https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8"
+        }
+]
+},
+
+
+
+
+
+
+
+
+
+
+
   {
     "type":"World Cup",
     "chs": [
