@@ -95,6 +95,57 @@
     "type":"Sports",
     "chs": [
 
+{
+          "title":"DUBAI SPORTS",
+      "img":"0",
+      "link":"https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8"
+        },
+{
+          "title":"SHARJJAH SPORT",
+      "img":"0",
+      "link":"https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8"
+        },
+{
+          "title":"Sharjah_Sports",
+      "img":"0",
+      "link":"https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8"
+        },
+{
+          "title":"OMAN SPORT",
+      "img":"0",
+      "link":"https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8"
+        },
+{
+          "title":"CID 1",
+      "img":"0",
+      "link":"http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8"
+        },
+{
+          "title":"ARAB CHANNEL 1",
+      "img":"0",
+      "link":"https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"
+        },
+{
+          "title":"ARAB CHANNEL 2",
+      "img":"0",
+      "link":"http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8"
+        },
+{
+          "title":"ARAB CHANNEL 3",
+      "img":"0",
+      "link":"http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8"
+        },
+{
+          "title":"AD SPORTS 1",
+      "img":"0",
+      "link":"https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8"
+        },
+{
+          "title":"AD SPORTS 1",
+      "img":"0",
+      "link":"https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8"
+        },
+
 
 {
           "title":"NOVA SPORTS START",
